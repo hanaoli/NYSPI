@@ -1,2 +1,2 @@
 # NYSPI
-fMRI Images
+New York State Psychiatric Institute
