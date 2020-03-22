@@ -1,2 +1,2 @@
 # NYSPI
-New York State Psychiatric Institute
+Brain images analysis at New York State Psychiatric Institute
